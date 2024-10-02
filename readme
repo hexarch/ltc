@@ -1,1 +1,3 @@
 Litecoin ağındaki tüm blokları çeker ve blokda işlem yapmış adresleri txt kaydeder
+
+Çalışması için Litecoin core uygulamasını kurulup tüm blokların indirilmesi gerekiyor ardından ltc config dosyasından kullanıcı ve şifre oluşturulmalı 
